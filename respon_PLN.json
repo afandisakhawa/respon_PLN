@@ -31,6 +31,16 @@
       ]
     },
     {
+        "tag": "penjelasan_pln",
+     "patterns": [
+     "Siapa penciptamu?",
+     "yang membuat bot PLN siapa?"
+     ],
+     "responses": [
+     "PLN (Perusahaan Listrik Negara) bot ini di buat oleh Afandi mahasiswa UNISBANK Semarang fakultas teknologi informasi dan industri"
+     ]
+    },
+     {
       "tag": "layanan_pln",
       "patterns": [
         "Layanan apa saja yang disediakan oleh PLN?",
